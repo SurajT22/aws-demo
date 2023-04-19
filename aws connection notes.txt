@@ -1,0 +1,6 @@
+if you create instance ec2 instance
+select instance then click on "connect" button
+select SSH 
+all the same step run but the last 4 step not run in git bash
+last for example step run
+just copy and paste
