@@ -1,3 +1,5 @@
 .key/
 .venv/
 venv
+.idea/
+idea

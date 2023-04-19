@@ -4,3 +4,9 @@ select SSH
 all the same step run but the last 4 step not run in git bash
 last for example step run
 just copy and paste
+
+|-------------Installing Conda and creating virtual env ------------------------|
+Connect to the instance
+sudo apt update
+sudo apt install curl -y
+check the aws note folder day 2
